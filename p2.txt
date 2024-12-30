@@ -3,4 +3,8 @@ hello
 shankar
 =======
 hiii
+<<<<<<< HEAD
 >>>>>>> feature
+=======
+shankar
+>>>>>>> 257b888 (first)
